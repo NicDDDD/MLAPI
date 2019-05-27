@@ -1,0 +1,5 @@
+data.json
+dataTest.py
+*/__pycache__
+*/*.pkl
+__pycache__
